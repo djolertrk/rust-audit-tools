@@ -1,4 +1,5 @@
-# rust-callgraph
+# rust-audit-tools
+For now, it contains `rust-callgraph` only.
 
 ## Build
 
